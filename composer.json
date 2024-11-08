@@ -1,4 +1,8 @@
 {
+    "name": "moche/phpgemini",
+    "description": "A PHP client for Gemini API",
+    "type": "library",
+    "license": "MIT",
     "require": {
         "gemini-api-php/client": "^1.4",
         "symfony/http-client": "^7.1",
